@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding in various programming languages
 - 🌱 I’m currently learning enrolled on alx SE programme
 - 💞️ I’m looking to collaborate on anything related to Software Engineering
-- 📫 How to reach me: Twitter-> @aobakwe_keeme
+- 📫 How to reach me: Twitter-> ![Twitter Follow](https://img.shields.io/twitter/follow/aobakwe_keeme?style=social)
 
 <!---
 aobakwekeeme/aobakwekeeme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
