@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aobakwekeeme
 - 👀 I’m interested in learning coding in various programming languages
-- 🌱 I’m currently learning enrolled on alx SE programme
-- 💞️ I’m looking to collaborate on anything related to Software Engineering
+- 🌱 I’m currently studying Computer Sciences @waltersisuluuni
 
 ![Twitter](https://img.shields.io/twitter/follow/aobakwe_keeme?style=social)
 <!---
