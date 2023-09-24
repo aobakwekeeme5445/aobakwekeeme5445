@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aobakwe Keeme</h1>
 <h3 align="center">A passionate Computer Science student</h3>
-<img src="https://tenor.com/view/coding-gif-18657810" alt="Coder" align="right" width="400">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw3GnJGLbN8bvdCelZC5sdVj&ust=1695666837040000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCemq3xw4EDFQAAAAAdAAAAABAJ" alt="Coder" align="right" width="400">
 
 - 🔭 I’m currently working on **learning**
 
