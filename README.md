@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aobakwe Keeme</h1>
 <h3 align="center">A passionate Computer Science student</h3>
-<img src="![download](https://github.com/aobakwekeeme/aobakwekeeme/assets/102696653/763b5f32-9376-4a2f-82eb-f2d55e4a4408)
-" alt="Coder" align="right" width="400">
 
 - 🔭 I’m currently working on **learning**
 
