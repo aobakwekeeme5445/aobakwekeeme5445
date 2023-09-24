@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **aobakwekm@gmail.com**
 
-- ⚡ Fun fact: **I want to master top 20 programming languages**
+- ⚡ Fun fact: **I want to master 10+ programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
