@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aobakwe Keeme</h1>
 <h3 align="center">A passionate Computer Science student</h3>
-<img src="[ZgrKj7dDjSckqPkO9PTLpLh1Y12weNsqvsV+NJyAx+Q7nHlnzAnnmAbZ8RmDyI3EStQmXnI0erYlH6s9pmKw4FPEg4ikMgxNqi/vn2/XPrMnWLtTr1V7vCUzRBGbvZn/dA8K+eZ8pl6dbNvVnWyytYtacJglvWqfeEXWmtmdvJeA6mwlP6z9oOMxl6aHuMOcthD42H433+gsPORKrUdmLszM7G7MxLMx5knMmcJrMJGNZW/B8tPsRNDMRESAIiJIEREgCIiSBERAEREAREQBERAEREAREQBERAEREAREQBERAEREARESAIiJIEREAREQBERAEREAREQBERAEREAREQBERBAiIgkREQBERAEREECIiAIiIAiIgkQIiCBERIAiIkkiIiQBERJIEREAREQBERAEREgHyIiSSf/2Q==](https://tenor.com/bqrUA.gif)](https://tenor.com/view/coding-gif-18657810)" alt="Coder" align="right" width="400">
+<img src="https://tenor.com/view/coding-gif-18657810" alt="Coder" align="right" width="400">
 
 - 🔭 I’m currently working on **learning**
 
