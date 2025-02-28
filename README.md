@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning**
 
-- 🌱 I’m currently learning **Web Applications Development, Programming...**
+- 🌱 I’m currently learning **Web Applications Development, Programming, Software Engineering ...**
 
 - 🤝 I’m looking for help with **tech advices**
 
