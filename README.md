@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aobakwe Keeme</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-- 🔭 I’m currently working on **learning**
-
-- 🌱 I’m currently learning **Web Applications Development, Programming, Software Engineering ...**
+- 🔭 I’m currently working on **learning**, I’m learning **Web Applications Development, Programming, Software Engineering ...**
 
 - 🤝 I’m looking for help with **tech advices**
 
